@@ -1,6 +1,6 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Yo-kai Watch TKB'
 theme = 'hugo-geekdoc'
 
 # Required to get well formatted code blocks
