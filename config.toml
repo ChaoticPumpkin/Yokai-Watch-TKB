@@ -24,6 +24,9 @@ enableRobotsTXT = true
   tag = 'tags'
 
 [params]
+  # data/menu/main.yaml
+  geekdocMenuBundle = true
+
   [params.geekdocContentLicense]
     name = 'CC BY 4.0'
     link = 'https://creativecommons.org/licenses/by/4.0/'
