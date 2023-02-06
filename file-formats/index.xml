@@ -8,6 +8,16 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 03 Feb 2023 16:56:21 -0800</lastBuildDate><atom:link href="http://chaoticpumpkin.github.io/Yokai-Watch-TKB/file-formats/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>.cfg.bin</title>
+      <link>http://chaoticpumpkin.github.io/Yokai-Watch-TKB/file-formats/cfg-bin/</link>
+      <pubDate>Sun, 05 Feb 2023 16:32:00 -0800</pubDate>
+      
+      <guid>http://chaoticpumpkin.github.io/Yokai-Watch-TKB/file-formats/cfg-bin/</guid>
+      <description>Magic Number (ASCII) Magic Number (HEX) File Type N/A N/A Data A general purpose file format for storing text. It is often used for NPC/menu dialogue, items at stores, objects on the map, and a lot more.
+For just editing dialogue, Kuriimu works well. If you need to edit other types of the format, use either a hex editor or CfgBinEditor, the latter of which is more user friendly, but requires more setup and is quite incomplete.</description>
+    </item>
+    
+    <item>
       <title>.fa</title>
       <link>http://chaoticpumpkin.github.io/Yokai-Watch-TKB/file-formats/fa/</link>
       <pubDate>Fri, 03 Feb 2023 16:15:31 -0800</pubDate>
