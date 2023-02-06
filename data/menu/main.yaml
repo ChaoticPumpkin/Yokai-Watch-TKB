@@ -5,3 +5,5 @@ main:
     sub:
       - name: .fa
         ref: "/file-formats/fa"
+      - name: .cfg.bin
+        ref: "/file-formats/cfg-bin"
