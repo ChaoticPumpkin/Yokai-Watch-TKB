@@ -7,3 +7,5 @@ main:
         ref: "/file-formats/fa"
       - name: .cfg.bin
         ref: "/file-formats/cfg-bin"
+      - name: .xi
+        ref: "/file-formats/xi"
