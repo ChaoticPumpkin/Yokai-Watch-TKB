@@ -8,6 +8,16 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 03 Feb 2023 16:56:21 -0800</lastBuildDate><atom:link href="http://chaoticpumpkin.github.io/Yokai-Watch-TKB/file-formats/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>.xi</title>
+      <link>http://chaoticpumpkin.github.io/Yokai-Watch-TKB/file-formats/xi/</link>
+      <pubDate>Sun, 12 Feb 2023 15:59:08 -0800</pubDate>
+      
+      <guid>http://chaoticpumpkin.github.io/Yokai-Watch-TKB/file-formats/xi/</guid>
+      <description>Magic Number (ASCII) Magic Number (HEX) File Type IMGC00 0x494D47433030 Image This is the image container used by all Yo-kai Watch games. It supports many different image formats, but ETC1 and ETC1A4 seem to be used the most.
+Kuriimu2 can extract, convert, and replace these files.</description>
+    </item>
+    
+    <item>
       <title>.cfg.bin</title>
       <link>http://chaoticpumpkin.github.io/Yokai-Watch-TKB/file-formats/cfg-bin/</link>
       <pubDate>Sun, 05 Feb 2023 16:32:00 -0800</pubDate>
@@ -23,7 +33,8 @@ For just editing dialogue, Kuriimu works well. If you need to edit other types o
       <pubDate>Fri, 03 Feb 2023 16:15:31 -0800</pubDate>
       
       <guid>http://chaoticpumpkin.github.io/Yokai-Watch-TKB/file-formats/fa/</guid>
-      <description>Magic Number (ASCII) Magic Number (HEX) File Type ARC0 0x41524330 Archive This is the archive used in all of the Yo-kai Watch games, located in the root of the RomFS. Kuriimu2 is able to extract, modify, and repack these archives</description>
+      <description>Magic Number (ASCII) Magic Number (HEX) File Type ARC0 0x41524330 Archive This is the archive used in all of the Yo-kai Watch games, located in the root of the RomFS.
+Kuriimu2 is able to extract, modify, and repack these archives.</description>
     </item>
     
   </channel>
