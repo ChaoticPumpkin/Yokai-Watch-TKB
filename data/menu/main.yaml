@@ -3,9 +3,12 @@ main:
   - name: File Formats
     ref: "/file-formats"
     sub:
-      - name: .fa
-        ref: "/file-formats/fa"
       - name: .cfg.bin
         ref: "/file-formats/cfg-bin"
-      - name: .xi
+      - name: .fa
+        ref: "/file-formats/fa"
+      - name: .xc
         ref: "/file-formats/xi"
+      - name: .xi
+        ref: "file-formats/xc"
+    
