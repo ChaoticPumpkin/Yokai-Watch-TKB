@@ -7,8 +7,8 @@ main:
         ref: "/file-formats/cfg-bin"
       - name: .fa
         ref: "/file-formats/fa"
-      - name: .xc
-        ref: "/file-formats/xi"
       - name: .xi
+        ref: "/file-formats/xi"
+      - name: .xc
         ref: "file-formats/xc"
     
