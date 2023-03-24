@@ -14,7 +14,8 @@
       
       <guid>http://chaoticpumpkin.github.io/Yokai-Watch-TKB/file-formats/xc/</guid>
       <description>Magic Number (ASCII) Magic Number (HEX) File Type XPCK 0x5850434b Archive This is a general archive format used to compress a lot of the game&amp;rsquo;s files. All 3d models, textures, armature, and some sprites are stored in these archives. They are identical to .xa and .xk files other than their extention name.
-Kuriimu2 is able to extract, modify, and repack these archives.</description>
+Kuriimu2 is able to extract, modify, and repack these archives.
+Tinifan&amp;rsquo;s Level-5 Blender Addon can export external 3d models into a format that Yo-kai Watch can use.</description>
     </item>
     
     <item>
