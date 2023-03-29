@@ -170,5 +170,5 @@ draft: false
 
 ## See also
 
-[Notes:Yo-kai Watch - The Cutting Room Floor](https://tcrf.net/Notes:Yo-kai_Watch)
+ Mostly copied from this, removed empty/unused entries - [Notes:Yo-kai Watch - The Cutting Room Floor](https://tcrf.net/Notes:Yo-kai_Watch)
 

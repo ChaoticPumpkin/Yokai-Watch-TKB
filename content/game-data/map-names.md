@@ -6,3 +6,5 @@ draft: false
 In all Yo-kai Watch games, maps are stored in [.xc](/file-formats/xc) archives, under the `/data/map/` directory. 
 
 - [Yo-kai Watch 1 Map Names](/Yokai-Watch-TKB/game-data/map-names-ykw1)
+- [Yo-kai Watch 2 Map Names](/Yokai-Watch-TKB/game-data/map-names-ykw2)
+- [Yo-kai Watch 3 Map Names](/Yokai-Watch-TKB/game-data/map-names-ykw3)
