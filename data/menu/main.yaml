@@ -11,4 +11,8 @@ main:
         ref: "/file-formats/xi"
       - name: .xc
         ref: "file-formats/xc"
-    
+  - name: Game Data
+    ref: "/game-data"
+    sub:
+      - name: Map Names
+        ref: "/game-data/map-names"
