@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /tags/*
 
-Sitemap: http://chaoticpumpkin.github.io/Yokai-Watch-TKB/sitemap.xml
+Sitemap: http://chaoticpumpkin.github.io/sitemap.xml
