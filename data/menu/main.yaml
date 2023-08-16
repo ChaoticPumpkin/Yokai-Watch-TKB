@@ -7,10 +7,11 @@ main:
         ref: "/file-formats/cfg-bin"
       - name: .fa
         ref: "/file-formats/fa"
-      - name: .xi
-        ref: "/file-formats/xi"
       - name: .xc
         ref: "file-formats/xc"
+      - name: .xi
+        ref: "/file-formats/xi"
+
   - name: Game Data
     ref: "/game-data"
     sub:
