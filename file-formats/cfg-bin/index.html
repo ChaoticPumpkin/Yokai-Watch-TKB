@@ -9,10 +9,10 @@
 <meta name="referrer" content="no-referrer" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <meta name="color-scheme" content="light dark" />
-<meta name="generator" content="Hugo 0.113.0">
+<meta name="generator" content="Hugo 0.117.0">
 
 
-  <meta name="description" content="Magic Number (ASCII) Magic Number (HEX) File Type N/A N/A Data A general purpose file format for storing text. It is often used for NPC/menu dialogue, items at stores, objects on the map, and a lot more.
+  <meta name="description" content="Magic Number (ASCII) Magic Number (HEX) File Type N/A N/A Data A binary file format for storing data. It is used for NPC/menu dialogue, items at stores, objects on the map, etc. It is the binary form of .cfg files, although leftover files show that they have a few different extensions, including .ptree and .mapenv.
 For just editing dialogue, Kuriimu works well. If you need to edit other types of the format, use either a hex editor or CfgBinEditor, the latter of which is more user friendly, but requires more setup and is quite incomplete." />
 
     <title>.cfg.bin | Yo-kai Watch TKB</title>
@@ -39,7 +39,7 @@ For just editing dialogue, Kuriimu works well. If you need to edit other types o
     content=".cfg.bin"
   />
   <meta property="og:site_name" content="Yo-kai Watch TKB" />
-  <meta property="og:description" content="Magic Number (ASCII) Magic Number (HEX) File Type N/A N/A Data A general purpose file format for storing text. It is often used for NPC/menu dialogue, items at stores, objects on the map, and a lot more.
+  <meta property="og:description" content="Magic Number (ASCII) Magic Number (HEX) File Type N/A N/A Data A binary file format for storing data. It is used for NPC/menu dialogue, items at stores, objects on the map, etc. It is the binary form of .cfg files, although leftover files show that they have a few different extensions, including .ptree and .mapenv.
 For just editing dialogue, Kuriimu works well. If you need to edit other types of the format, use either a hex editor or CfgBinEditor, the latter of which is more user friendly, but requires more setup and is quite incomplete." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="http://chaoticpumpkin.github.io/Yokai-Watch-TKB/file-formats/cfg-bin/" />
@@ -51,13 +51,13 @@ For just editing dialogue, Kuriimu works well. If you need to edit other types o
     />
     <meta
       property="article:modified_time"
-      content="2023-02-11T22:34:42-08:00"
+      content="2023-08-16T16:05:16-07:00"
     />
 
 
   <meta name="twitter:card" content="summary" />
 <meta name="twitter:title" content=".cfg.bin" />
-  <meta name="twitter:description" content="Magic Number (ASCII) Magic Number (HEX) File Type N/A N/A Data A general purpose file format for storing text. It is often used for NPC/menu dialogue, items at stores, objects on the map, and a lot more.
+  <meta name="twitter:description" content="Magic Number (ASCII) Magic Number (HEX) File Type N/A N/A Data A binary file format for storing data. It is used for NPC/menu dialogue, items at stores, objects on the map, etc. It is the binary form of .cfg files, although leftover files show that they have a few different extensions, including .ptree and .mapenv.
 For just editing dialogue, Kuriimu works well. If you need to edit other types of the format, use either a hex editor or CfgBinEditor, the latter of which is more user friendly, but requires more setup and is quite incomplete." />
 
 
@@ -69,8 +69,8 @@ For just editing dialogue, Kuriimu works well. If you need to edit other types o
       "name": ".cfg.bin",
       "url" : "http://chaoticpumpkin.github.io/Yokai-Watch-TKB/file-formats/cfg-bin/",
       "headline": ".cfg.bin",
-      "description": "Magic Number (ASCII) Magic Number (HEX) File Type N\/A N\/A Data A general purpose file format for storing text. It is often used for NPC\/menu dialogue, items at stores, objects on the map, and a lot more.\nFor just editing dialogue, Kuriimu works well. If you need to edit other types of the format, use either a hex editor or CfgBinEditor, the latter of which is more user friendly, but requires more setup and is quite incomplete.",
-      "wordCount" : "77",
+      "description": "Magic Number (ASCII) Magic Number (HEX) File Type N\/A N\/A Data A binary file format for storing data. It is used for NPC\/menu dialogue, items at stores, objects on the map, etc. It is the binary form of .cfg files, although leftover files show that they have a few different extensions, including .ptree and .mapenv.\nFor just editing dialogue, Kuriimu works well. If you need to edit other types of the format, use either a hex editor or CfgBinEditor, the latter of which is more user friendly, but requires more setup and is quite incomplete.",
+      "wordCount" : "95",
       "license": "CC BY 4.0",
       "inLanguage": "en",
       "isFamilyFriendly": "true",
@@ -82,7 +82,7 @@ For just editing dialogue, Kuriimu works well. If you need to edit other types o
       "copyrightYear" : "2023",
       "dateCreated": "2023-02-05T16:32:00.00Z",
       "datePublished": "2023-02-05T16:32:00.00Z",
-      "dateModified": "2023-02-11T22:34:42.00Z",
+      "dateModified": "2023-08-16T16:05:16.00Z",
       "publisher":{
           "@type":"Organization",
           "name": "Yo-kai Watch TKB",
@@ -467,10 +467,10 @@ For just editing dialogue, Kuriimu works well. If you need to edit other types o
               <span class="flex">
                 
                 <a
-                  href="/Yokai-Watch-TKB/file-formats/xi"
+                  href="/Yokai-Watch-TKB/file-formats/xc"
                   class="gdoc-nav__entry"
                 >
-                  .xi
+                  .xc
                 </a>
               </span>
               
@@ -512,10 +512,10 @@ For just editing dialogue, Kuriimu works well. If you need to edit other types o
               <span class="flex">
                 
                 <a
-                  href="/Yokai-Watch-TKB/file-formats/xc"
+                  href="/Yokai-Watch-TKB/file-formats/xi"
                   class="gdoc-nav__entry"
                 >
-                  .xc
+                  .xi
                 </a>
               </span>
               
@@ -731,7 +731,7 @@ For just editing dialogue, Kuriimu works well. If you need to edit other types o
 </tr>
 </tbody>
 </table> </div>
-<p>A general purpose file format for storing text. It is often used for NPC/menu dialogue, items at stores, objects on the map, and a lot more.</p>
+<p>A binary file format for storing data. It is used for NPC/menu dialogue, items at stores, objects on the map, etc. It is the binary form of <code>.cfg</code> files, although leftover files show that they have a few different extensions, including <code>.ptree</code> and <code>.mapenv</code>.</p>
 <p>For just editing dialogue, <a
   class="gdoc-markdown__link"
   href="https://github.com/IcySon55/Kuriimu"
