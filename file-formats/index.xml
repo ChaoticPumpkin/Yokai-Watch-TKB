@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>File Formats on Yo-kai Watch TKB</title>
-    <link>http://chaoticpumpkin.github.io/Yokai-Watch-TKB/file-formats/</link>
+    <link>http://yokai.chaoticpumpk.in/file-formats/</link>
     <description>Recent content in File Formats on Yo-kai Watch TKB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Feb 2023 16:56:21 -0800</lastBuildDate><atom:link href="http://chaoticpumpkin.github.io/Yokai-Watch-TKB/file-formats/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Feb 2023 16:56:21 -0800</lastBuildDate><atom:link href="http://yokai.chaoticpumpk.in/file-formats/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>.xc</title>
-      <link>http://chaoticpumpkin.github.io/Yokai-Watch-TKB/file-formats/xc/</link>
+      <link>http://yokai.chaoticpumpk.in/file-formats/xc/</link>
       <pubDate>Fri, 17 Feb 2023 10:19:17 -0800</pubDate>
       
-      <guid>http://chaoticpumpkin.github.io/Yokai-Watch-TKB/file-formats/xc/</guid>
+      <guid>http://yokai.chaoticpumpk.in/file-formats/xc/</guid>
       <description>Magic Number (ASCII) Magic Number (HEX) File Type XPCK 0x5850434b Archive This is a general archive format used to compress a lot of the game&amp;rsquo;s files. All 3d models, textures, armature, and some sprites are stored in these archives. They are identical to .xa and .xk files other than their extention name.
 Kuriimu2 is able to extract, modify, and repack these archives.
 Tinifan&amp;rsquo;s Level-5 Blender Addon can export external 3d models into a format that Yo-kai Watch can use.</description>
@@ -20,30 +20,30 @@ Tinifan&amp;rsquo;s Level-5 Blender Addon can export external 3d models into a f
     
     <item>
       <title>.xi</title>
-      <link>http://chaoticpumpkin.github.io/Yokai-Watch-TKB/file-formats/xi/</link>
+      <link>http://yokai.chaoticpumpk.in/file-formats/xi/</link>
       <pubDate>Sun, 12 Feb 2023 15:59:08 -0800</pubDate>
       
-      <guid>http://chaoticpumpkin.github.io/Yokai-Watch-TKB/file-formats/xi/</guid>
+      <guid>http://yokai.chaoticpumpk.in/file-formats/xi/</guid>
       <description>Magic Number (ASCII) Magic Number (HEX) File Type IMGC00 0x494D47433030 Image This is the image container used by all Yo-kai Watch games. It supports many different image formats, but ETC1 and ETC1A4 seem to be used the most.
 Kuriimu2 can extract, convert, and replace these files.</description>
     </item>
     
     <item>
       <title>.cfg.bin</title>
-      <link>http://chaoticpumpkin.github.io/Yokai-Watch-TKB/file-formats/cfg-bin/</link>
+      <link>http://yokai.chaoticpumpk.in/file-formats/cfg-bin/</link>
       <pubDate>Sun, 05 Feb 2023 16:32:00 -0800</pubDate>
       
-      <guid>http://chaoticpumpkin.github.io/Yokai-Watch-TKB/file-formats/cfg-bin/</guid>
+      <guid>http://yokai.chaoticpumpk.in/file-formats/cfg-bin/</guid>
       <description>Magic Number (ASCII) Magic Number (HEX) File Type N/A N/A Data A binary file format for storing data. It is used for NPC/menu dialogue, items at stores, objects on the map, etc. It is the binary form of .cfg files, although leftover files show that they have a few different extensions, including .ptree and .mapenv.
 For just editing dialogue, Kuriimu works well. If you need to edit other types of the format, Tinifan&amp;rsquo;s CfgBinEditor or a hex editor will work.</description>
     </item>
     
     <item>
       <title>.fa</title>
-      <link>http://chaoticpumpkin.github.io/Yokai-Watch-TKB/file-formats/fa/</link>
+      <link>http://yokai.chaoticpumpk.in/file-formats/fa/</link>
       <pubDate>Fri, 03 Feb 2023 16:15:31 -0800</pubDate>
       
-      <guid>http://chaoticpumpkin.github.io/Yokai-Watch-TKB/file-formats/fa/</guid>
+      <guid>http://yokai.chaoticpumpk.in/file-formats/fa/</guid>
       <description>Magic Number (ASCII) Magic Number (HEX) File Type ARC0 0x41524330 Archive This is the archive used in all of the Yo-kai Watch games, located in the root of the RomFS.
 Kuriimu2 is able to extract, modify, and repack these archives.</description>
     </item>
