@@ -1,4 +1,4 @@
-baseURL = 'http://chaoticpumpkin.github.io/Yokai-Watch-TKB/'
+baseURL = 'http://yokai.chaoticpumpk.in/'
 languageCode = 'en-us'
 title = 'Yo-kai Watch TKB'
 theme = 'hugo-geekdoc'
