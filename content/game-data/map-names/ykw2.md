@@ -214,7 +214,6 @@ draft: false
 | t131d33  | Infinite Tunnel Final Zone                                        |
 | t131d34  | Infinite Tunnel Final Zone                                        |
 | t131d35  | Infinite Tunnel Final Zone                                        |
-| t131d36  | Unknown (Black Minimap, Just one texture inside)                  |
 | t131g00  | Harrisville                                                       |
 | t131i01  | Grandma's House                                                   |
 | t131i03  | Harrisville School                                                |
@@ -232,12 +231,10 @@ draft: false
 | t201g00  | Old Springdale                                                    |
 | t201i01  | Old Shoten Temple                                                 |
 | t201i03  | Old Timers & More                                                 |
-| t201i05  | Unknown (Placeholder Minimap)                                     |
 | t201i10  | Galleria Boulevard                                                |
 | t201i20  | Old Prayer's Peak Tunnel                                          |
 | t202g00  | Old Mount Wildwood                                                |
 | t206g00  | Gourd Pond                                                        |
-| t230g00  | Unknown (Empty)                                                   |
 | t231d01  | Old Rice Paddy                                                    |
 | t231d03  | Old Fullface Rock                                                 |
 | t231d04  | Old Cicada Canyon                                                 |
@@ -252,6 +249,6 @@ draft: false
 | t302i01  | Banquet Hall                                                      |
 | t303g00  | Sekigahara Stronghold                                             |
 
-## See also
+## Sources
 
 Mostly copied from this, removed empty/unused entries - [Notes:Yo-kai Watch 2 - The Cutting Room Floor](https://tcrf.net/Notes:Yo-kai_Watch_2)

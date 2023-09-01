@@ -257,7 +257,6 @@ draft: false
 | t109g00      | Greenfields                                            |
 | t121d01      | Briny Grotto                                           |
 | t121d03      | Hidden Workshop                                        |
-| t121d05      | Unknown (Placeholder minimap, Carried from YW2)        |
 | t121d11      | Seaside Cave                                           |
 | t121d13      | Dragon Heights                                         |
 | t121g00      | San Fantastico                                         |
@@ -271,12 +270,10 @@ draft: false
 | t131d04      | Cicada Canyon                                          |
 | t131d05      | Mt. Middleton Summit                                   |
 | t131d20      | Infinite Tunnel                                        |
-| t131d31      | Unknown (Only one texture)                             |
 | t131d32      | Infinite Tunnel Final Zone                             |
 | t131d33      | Infinite Tunnel Final Zone                             |
 | t131d34      | Infinite Tunnel Final Zone                             |
 | t131d35      | Infinite Tunnel Final Zone                             |
-| t131d36      | Unknown (Black Minimap, One texture, Carried from YW2) |
 | t131g00      | Harrisville                                            |
 | t131i01      | Grandma's House                                        |
 | t131i03      | Harrisville School                                     |
@@ -417,7 +414,7 @@ draft: false
 | t501g00      | Cluvian Continent                                      |
 | t501i01      | Blasters Camp                                          |
 
-## See also
+## Sources
 
 Mostly copied from this, removed empty/unused entries - [Notes:Yo-kai Watch 3 - The Cutting Room Floor](https://tcrf.net/Notes:Yo-kai_Watch_3)
 

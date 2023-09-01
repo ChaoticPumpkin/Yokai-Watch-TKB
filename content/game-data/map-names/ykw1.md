@@ -168,7 +168,7 @@ draft: false
 | t106i23  | Trophy Room                                                        |
 | t106i52  | Wisteria Gardens Entrance                                          |
 
-## See also
+## Sources
 
  Mostly copied from this, removed empty/unused entries - [Notes:Yo-kai Watch - The Cutting Room Floor](https://tcrf.net/Notes:Yo-kai_Watch)
 
