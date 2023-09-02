@@ -17,3 +17,5 @@ main:
     sub:
       - name: Map Names
         ref: "/game-data/map-names"
+      - name: Yo-kai Names
+        ref: "/game-data/yokai-names"
