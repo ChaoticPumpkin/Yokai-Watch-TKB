@@ -19,3 +19,8 @@ main:
         ref: "/game-data/map-names"
       - name: Yo-kai Names
         ref: "/game-data/yokai-names"
+  - name: Tutorials
+    ref: "/tutorials"
+    sub:
+      - name: CTRPF
+        ref: "/tutorials/ctrpf"
