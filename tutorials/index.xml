@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tutorials on Yo-kai Watch TKB</title>
+    <link>http://yokai.chaoticpumpk.in/tutorials/</link>
+    <description>Recent content in Tutorials on Yo-kai Watch TKB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Oct 2023 15:44:25 -0700</lastBuildDate>
+    <atom:link href="http://yokai.chaoticpumpk.in/tutorials/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CTRPluginFramework</title>
+      <link>http://yokai.chaoticpumpk.in/tutorials/ctrpf/</link>
+      <pubDate>Mon, 30 Oct 2023 15:45:11 -0700</pubDate>
+      <guid>http://yokai.chaoticpumpk.in/tutorials/ctrpf/</guid>
+      <description>CTRPluginFramework (CTRPF) is a framework for programmatically modding 3DS games. While it is mainly intended to be used as a template for developers to make mod menus and such, it has some very useful memory hacking features on its own. CTRPF can run on both real hardware and through emulation.
+Installation (3DS) Make sure you have the latest Luma3DS
+Download the .3gx file from the CTRPF releases.
+Rename the file to default.</description>
+    </item>
+  </channel>
+</rss>
